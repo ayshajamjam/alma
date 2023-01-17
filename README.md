@@ -1,8 +1,16 @@
 # [Alma](https://almasaasproj.herokuapp.com/)
 
+## About
+
 Alma is a SaaS app that allows students to create and sign up for tasks within their own school community.<br />
-[YouTube Link of Demo](https://youtu.be/j8B8YcH2qHk) <br />
-Visit our Heroku page [here](https://almasaasproj.herokuapp.com/).
+
+## Demo
+
+<a href="https://youtu.be/j8B8YcH2qHk" target="_blank"><img src="./Homepage.png" 
+alt="demo video" width="550" height="300" border="10" /></a>
+
+Visit our demo video [here](https://youtu.be/j8B8YcH2qHk) <br />
+Visit our Heroku page [here](https://almasaasproj.herokuapp.com/) (this link is expired)
 
 ## Group members
 Aditi Dam - ad3707 <br/>
